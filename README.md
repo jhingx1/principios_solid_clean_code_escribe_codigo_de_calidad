@@ -1,0 +1,2 @@
+# principios_solid_clean_code_escribe_codigo_de_calidad
+clean code y principios solid
